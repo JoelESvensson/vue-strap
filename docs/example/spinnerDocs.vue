@@ -1,6 +1,6 @@
 <template>
   <div class="bs-docs-section" id="spnner">
-    <h1 class="page-header"><a href="#spnner" class="anchor">Spnner</a></h1>
+    <h1 class="page-header"><a href="#spnner" class="anchor">Spinner</a></h1>
     <div class="bs-example">
 
       <!-- Html controls start-->
